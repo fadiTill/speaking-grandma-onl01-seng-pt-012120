@@ -4,6 +4,8 @@ if phrase == 'I LOVE YOU GRANDMA!'
     "I LOVE YOU TOO PUMPKIN!"
  elsif phrase == "hello grandma "
     "HUH?! SPEAK UP, SONNY!"
+  elsif phrase == "What grandma?"
+    "HUH?! SPEAK UP, SONNY!"
  elsif phrase == "DID YOU EAT?"
    "NO, NOT SINCE 1938!"
  else
